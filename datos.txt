@@ -1,0 +1,4 @@
+id,nombre,edad,carrera
+1,Jerlyn Rodriguez,25,Ingenieria de Software
+2,Carlos Gómez,22,Ingenieria de Software
+3,Joan Marquez,21,Ingenieria de Sistemas
